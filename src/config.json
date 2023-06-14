@@ -1,0 +1,7 @@
+{
+    "clientID": "X12bvQDxxCb_vwQ1DxyKtD632q4a",
+    "baseUrl": "https://api.asgardeo.io/t/dbgg1",
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000",
+    "scope": ["profile", "email"]
+}
